@@ -1,0 +1,18 @@
+#products {
+    flex-wrap: wrap;
+}
+
+img {
+    height: 200px;
+    object-fit: cover;
+}
+
+#products{
+    height: 360px;
+    subject-fit: cover;
+}
+.card {
+    width: 280px;
+    height: 400;
+    margin: 10px
+}
